@@ -1,7 +1,7 @@
-chrome-app-template
+flv_player
 ===================
 
-template for making chrome apps
--------------------------------
+Attempt at packaging videojs as an offline flv player for chrome
+----------------------------------------------------------------
 contents:
 	

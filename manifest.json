@@ -1,6 +1,6 @@
 {
-  "name": "Hello World!",
-  "description": "My first Chrome App.",
+  "name": "flv player!",
+  "description": "Offline flv video player for chrome/chromebooks.",
   "version": "0.1",
   "app": {
     "background": {
